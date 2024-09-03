@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.poo2024.modeldomain;
+package ar.edu.unju.fi.poo2024.dominio;
 
 import java.time.LocalDate;
 
@@ -9,7 +9,7 @@ public abstract class Empleado {
 	private LocalDate fechaNacimiento;
 	private byte cantidadHijos;
 	private byte aniosDeAntiguedad;
-	private double sueldoBasico;
+	private double sueldoBasico=150000.00;
 	
 	public Empleado(long id, String nombre, String legajo, LocalDate fechaNacimiento, byte cantidadHijos,
 			byte aniosDeAntiguedad, double sueldoBasico) {

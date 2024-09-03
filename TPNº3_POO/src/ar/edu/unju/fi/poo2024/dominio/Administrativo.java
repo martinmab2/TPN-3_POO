@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.poo2024.modeldomain;
+package ar.edu.unju.fi.poo2024.dominio;
 
 import java.time.LocalDate;
 
