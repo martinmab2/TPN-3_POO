@@ -1,0 +1,2 @@
+AdicionalXHijo: 8000
+AdicionalXAñoDeAntiguedad: 7000
